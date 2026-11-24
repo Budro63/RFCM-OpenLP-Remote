@@ -22,13 +22,13 @@ Designed for churches, worship teams, ministries, and presentation operators, RF
 ![Linux Launcher](View%20Linux%20V8.4.0%20Launcher%20with%20QR%20Code.png)
 
 ### Smartphone Remote Controls
-![Phone Controls](screenshots/RFCM-V8.4.0-Phone-Controls.png)
+<img src="screenshots/RFCM-V8.4.0-Phone-Controls.png" width="350" alt="Phone Controls">
 
 ### Eight Available Themes
 ![Eight Themes](screenshots/RFCM-V8.4.0-Eight-Themes-Showcase.png)
 
 ### Secure PIN Login
-![PIN Login](screenshots/RFCM-V8.4.0-Phone-PIN-Login.png)
+<img src="screenshots/RFCM-V8.4.0-Phone-PIN-Login.png" width="350" alt="PIN Login">
 
 ## Features
 
