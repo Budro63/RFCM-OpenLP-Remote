@@ -10,6 +10,26 @@ Designed for churches, worship teams, ministries, and presentation operators, RF
 
 **Version 8.4.0 — Windows & Linux**
 
+## Screenshots
+
+### Windows V8.4.0 — OpenLP Connected
+![Windows V8.4.0](View%20Windows%20V8.4.0%20screenshot.png)
+
+### Linux V8.4.0 — OpenLP Connected
+![Linux V8.4.0](View%20Linux%20V8.4.0%20with%20OpenLP%20Connected.png)
+
+### Linux Launcher — QR Code
+![Linux Launcher](View%20Linux%20V8.4.0%20Launcher%20with%20QR%20Code.png)
+
+### Smartphone Remote Controls
+![Phone Controls](screenshots/RFCM-V8.4.0-Phone-Controls.png)
+
+### Eight Available Themes
+![Eight Themes](screenshots/RFCM-V8.4.0-Eight-Themes-Showcase.png)
+
+### Secure PIN Login
+![PIN Login](screenshots/RFCM-V8.4.0-Phone-PIN-Login.png)
+
 ## Features
 
 - **Wireless control:** Use your Android phone, iPhone, or other device with a modern web browser.
